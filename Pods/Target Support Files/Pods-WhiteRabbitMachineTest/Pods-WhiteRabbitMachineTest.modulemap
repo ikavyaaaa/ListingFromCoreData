@@ -1,0 +1,6 @@
+framework module Pods_WhiteRabbitMachineTest {
+  umbrella header "Pods-WhiteRabbitMachineTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
